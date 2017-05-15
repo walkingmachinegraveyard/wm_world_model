@@ -1,0 +1,4 @@
+bool request
+---
+world_object[] object
+world_person[] person
