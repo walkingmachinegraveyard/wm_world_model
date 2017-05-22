@@ -1,0 +1,17 @@
+Max:
+  world_id: 3
+  name: Max
+  sex: M
+  action: Sitting
+  x: 5
+  y: 2
+  z: 0
+
+Nico:
+  world_id: 4
+  name: Nico
+  sex: M
+  action: Standing
+  x: 6
+  y: 7
+  z: 0
