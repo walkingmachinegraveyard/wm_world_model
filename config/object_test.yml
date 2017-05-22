@@ -1,0 +1,19 @@
+coke:
+  world_id: 0
+  ork_id: 0
+  object_name: coke
+  type: drink
+  color: red
+  x: 12
+  y: 15
+  z: 1
+
+glass:
+  world_id: 1
+  ork_id: 1
+  object_name: glass
+  type: drink
+  color: red
+  x: 16
+  y: 1
+  z: 1.5

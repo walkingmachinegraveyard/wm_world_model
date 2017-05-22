@@ -1,0 +1,5 @@
+<launch>
+    <param name="object_yml" value="$(find wm_world_model)/config/object_test.yml"/>
+    <param name="person_yml" value="$(find wm_world_model)/config/person_test.yml"/>
+    <node name="world_model" pkg="wm_world_model" type="world.py"/>
+</launch>
